@@ -1,0 +1,15 @@
+﻿  Projekt2.cpp
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\Projekt2.cpp(21,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\graph_matrix.h(54,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\graph_matrix.h(52): message : podczas kompilowania funkcji składowej „void graph_matrix<int>::fill(double,int)” klasy klasa szablon
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\Projekt2.cpp(72): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void graph_matrix<int>::fill(double,int)” funkcji szablon
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\Projekt2.cpp(25): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „graph_matrix<int>” klasy klasa szablon
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\graph_matrix.h(57,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\graph_list.h(67,31): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\graph_list.h(65): message : podczas kompilowania funkcji składowej „void graph_list<int>::fill(double,int)” klasy klasa szablon
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\Projekt2.cpp(152): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void graph_list<int>::fill(double,int)” funkcji szablon
+C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\Projekt2.cpp(26): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „graph_list<int>” klasy klasa szablon
+  graph_list.cpp
+  graph_matrix.cpp
+  Generowanie kodu...
+  Projekt2.vcxproj -> C:\Users\pawel\Desktop\PWr IV sem\PAMSI\Projekt2\Debug\Projekt2.exe
